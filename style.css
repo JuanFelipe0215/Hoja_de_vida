@@ -1,9 +1,9 @@
-#contenedor {
+#habilidades {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
 }
 
-#contenedor > div {
+#habilidades > div {
   width: 10%;
 }
